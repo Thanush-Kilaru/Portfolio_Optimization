@@ -30,10 +30,15 @@ A security's beta should only be used when a security has a high R-squared value
 ### Interpreting Beta
 A beta of 1 indicates that the security's price moves with the market. A beta of less than 1 means that the security is theoretically less volatile than the market. A beta of greater than 1 indicates that the security's price is theoretically more volatile than the market. For example, if a stock's beta is 1.2, it's theoretically 20% more volatile than the market.
 
+Here are a beta graphs of a few stocks:
+
+
 ## What is Standard Deviation?
 Standard deviation is a measure of the dispersion of a set of data from its mean. It is calculated as the square root of variance by determining the variation between each data point relative to the mean. If the data points are further from the mean, there is a higher deviation within the data set.
 
 In finance, the standard deviation is a statistical measurement; when applied to the annual rate of return on an investment, it sheds light on the historical volatility of that investment. The greater the standard deviation of a security, the greater the variance between each price and the mean, indicating a larger price range. For example, a volatile stock has a high standard deviation, while the deviation of a stable blue-chip stock is usually rather low.
+
+Here are few volatility graphs: 
 
 ## What is R-Squared?
 R-squared is a statistical measure that represents the percentage of a fund or security's movements that can be explained by movements in a benchmark index.
