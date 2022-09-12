@@ -1,5 +1,8 @@
 # Portfolio_Optimization
 
+## Introduction
+I have come up with a “Model Portfolio with Multi-cap Investment” approach in the Indian stock markets with weights each for the Large cap, Midcap and Small cap segments and have selected stocks from the corresponding NSE Indexes for Large, Mid and Small cap stocks/scripts. The concepts used are <b>Modern Portfolio Theory</b>, <b>Fama_French Model</b> and <b>CAPM</b>. “MyPortfolio” at any point in time shall consist of ~90% of fund allocation towards stocks (i.e. 20-25 multi-cap multi-sector stocks) and the remaining ~10% in Cash (or liquid instruments) to seize any opportunity that may arise in the markets.
+
 ## Modern Portfolio Theory
 Modern Portfolio Theory (MPT), a hypothesis put forth by Harry Markowitz in his paper "Portfolio Selection," (published in 1952 by the Journal of Finance) is an investment theory based on the idea that risk-averse investors can construct portfolios to optimize or maximize expected return based on a given level of market risk, emphasizing that risk is an inherent part of higher reward. It is one of the most important and influential economic theories dealing with finance and investment.
 
