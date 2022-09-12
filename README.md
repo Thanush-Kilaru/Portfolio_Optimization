@@ -39,7 +39,8 @@ Standard deviation is a measure of the dispersion of a set of data from its mean
 
 In finance, the standard deviation is a statistical measurement; when applied to the annual rate of return on an investment, it sheds light on the historical volatility of that investment. The greater the standard deviation of a security, the greater the variance between each price and the mean, indicating a larger price range. For example, a volatile stock has a high standard deviation, while the deviation of a stable blue-chip stock is usually rather low.
 
-Here are few volatility graphs: 
+Here are few volatility graphs:
+<img src="./static/Screenshot 2022-09-12 at 18.16.00.png"/>
 
 ## What is R-Squared?
 R-squared is a statistical measure that represents the percentage of a fund or security's movements that can be explained by movements in a benchmark index.
