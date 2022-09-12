@@ -86,7 +86,9 @@ The security market line (SML) is a line drawn on a chart that serves as a graph
 The security market line is an investment evaluation tool derived from the CAPM—a model that describes risk-return relationship for securities—and is based on the assumption that investors need to be compensated for both the time value of money (TVM) and the corresponding level of risk associated with any investment, referred to as the risk premium.
 
 The formula for plotting the SML is required return = risk-free rate of return + beta (market return - risk-free rate of return).
+
 <img src="./static/Screenshot 2022-09-12 at 22.30.16.png"/>
+
 Here the risk free rate is 8.25% and (market return - risk-free rate of return) is -4.13.
 
 When a security is plotted on the SML chart, if it appears above the SML, it is considered undervalued because the position on the chart indicates that the security offers a greater return against its inherent risk.
