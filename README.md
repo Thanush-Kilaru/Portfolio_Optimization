@@ -68,13 +68,6 @@ The Fama and French Three Factor Model is an asset pricing model that expands on
 ### BREAKING DOWN Fama And French Three Factor Model
 Eugene Fama and Kenneth French, both professors at the University of Chicago Booth School of Business, attempted to better measure market returns and, through research, found that value stocks outperform growth stocks. Similarly, small-cap stocks tend to outperform large-cap stocks. As an evaluation tool, the performance of portfolios with a large number of small-cap or value stocks would be lower than the CAPM result, as the Three Factor Model adjusts downward for small-cap and value outperformance.
 
-## Security Market Line
-The security market line (SML) is a line drawn on a chart that serves as a graphical representation of the capital asset pricing model (CAPM)—which shows different levels of systematic, or market risk, of various marketable securities, plotted against the expected return of the entire market at any given time.
-
-The security market line is an investment evaluation tool derived from the CAPM—a model that describes risk-return relationship for securities—and is based on the assumption that investors need to be compensated for both the time value of money (TVM) and the corresponding level of risk associated with any investment, referred to as the risk premium.
-
-The formula for plotting the SML is required return = risk-free rate of return + beta (market return - risk-free rate of return).
-
 ## Capital Asset Pricing Model - CAPM
 The capital asset pricing model (CAPM) is a model that describes the relationship between systematic risk and expected return for assets, particularly stocks. CAPM is widely used throughout finance for the pricing of risky securities, generating expected returns for assets given the risk of those assets and calculating costs of capital.
 
@@ -86,6 +79,20 @@ The general idea behind CAPM is that investors need to be compensated in two way
 The other half of the CAPM formula represents risk and calculates the amount of compensation the investor needs for taking on additional risk. This is calculated by taking a risk measure (beta) that compares the returns of the asset to the market over a period of time and to the market premium (Rm-rf): the return of the market in excess of the risk-free rate. Beta reflects how risky an asset is compared to overall market risk and is a function of the volatility of the asset and the market as well as the correlation between the two. For stocks, the market is usually represented as the S&P 500 but can be represented by more robust indexes as well.
 
 The CAPM model says that the expected return of a security or a portfolio equals the rate on a risk-free security plus a risk premium. If this expected return does not meet or beat the required return, then the investment should not be undertaken. The security market line plots the results of the CAPM for all different risks (betas).
+
+## Security Market Line
+The security market line (SML) is a line drawn on a chart that serves as a graphical representation of the capital asset pricing model (CAPM)—which shows different levels of systematic, or market risk, of various marketable securities, plotted against the expected return of the entire market at any given time.
+
+The security market line is an investment evaluation tool derived from the CAPM—a model that describes risk-return relationship for securities—and is based on the assumption that investors need to be compensated for both the time value of money (TVM) and the corresponding level of risk associated with any investment, referred to as the risk premium.
+
+The formula for plotting the SML is required return = risk-free rate of return + beta (market return - risk-free rate of return).
+<img src="./static/Screenshot 2022-09-12 at 22.30.16.png"/>
+Here the risk free rate is 8.25% and (market return - risk-free rate of return) is -4.13.
+
+When a security is plotted on the SML chart, if it appears above the SML, it is considered undervalued because the position on the chart indicates that the security offers a greater return against its inherent risk.
+
+Conversely, if the security plots below the SML, it is considered overvalued in price because the expected return does not overcome the inherent risk.
+
 
 ## What Is The Efficient Frontier?
 The efficient frontier is the set of optimal portfolios that offers the highest expected return for a defined level of risk or the lowest risk for a given level of expected return. Portfolios that lie below the efficient frontier are sub-optimal because they do not provide enough return for the level of risk. Portfolios that cluster to the right of the efficient frontier are also sub-optimal because they have a higher level of risk for the defined rate of return.
