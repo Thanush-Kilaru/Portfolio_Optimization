@@ -57,6 +57,7 @@ The Sharpe ratio has become the most widely used method for calculating risk-adj
 Modern Portfolio Theory states that adding assets to a diversified portfolio that have correlations of less than 1 with each other can decrease portfolio risk without sacrificing return. Such diversification will serve to increase the Sharpe ratio of a portfolio.
 
 ### Sharpe ratio = (Mean portfolio return − Risk-free rate) Standard deviation of portfolio return
+<img src="./static/Screenshot 2022-09-12 at 18.17.53.png"/>
 
 ## Fama And French Three Factor Model
 The Fama and French Three Factor Model is an asset pricing model that expands on the capital asset pricing model (CAPM) by adding size and value factors to the market risk factor in CAPM. This model considers the fact that value and small-cap stocks outperform markets on a regular basis. By including these two additional factors, the model adjusts for the outperformance tendency, which is thought to make it a better tool for evaluating manager performance. The three factors are Market Risks, Company Size and Value Factors.
@@ -66,6 +67,7 @@ Eugene Fama and Kenneth French, both professors at the University of Chicago Boo
 
 ## Capital Asset Pricing Model - CAPM
 The capital asset pricing model (CAPM) is a model that describes the relationship between systematic risk and expected return for assets, particularly stocks. CAPM is widely used throughout finance for the pricing of risky securities, generating expected returns for assets given the risk of those assets and calculating costs of capital.
+<img src="./static/Screenshot 2022-09-12 at 18.18.03.png"/>
 
 ## Capital Asset Pricing
 The general idea behind CAPM is that investors need to be compensated in two ways: time value of money and risk. The time value of money is represented by the risk-free (rf) rate in the formula and compensates the investors for placing money in any investment over a period of time. The risk-free rate is customarily the yield on government bonds like U.S. Treasuries / Treasury bills.
@@ -91,6 +93,8 @@ Assume a risk-seeking investor uses the efficient frontier to select investments
 VOL_UNIONBANK.NS 2.170028 VOL_BANKINDIA.NS 2.113974 VOL_RCOM.NS 1.990837 VOL_CANBK.NS 1.854292 VOL_PCJEWELLER.NS 1.834894 VOL_GMRINFRA.NS 1.766205 VOL_JINDALSTEL.NS 1.524516 VOL_L&TFH.NS 1.444537 """ Volatility Large cap VOL_JPASSOCIAT.NS 4.431737 VOL_GNFC.NS 3.574764 VOL_PNCINFRA.NS 2.278846 VOL_STRTECH.NS 2.229402 VOL_INOXWIND.NS 2.090468 VOL_INFIBEAM.NS 2.008561 VOL_GSFC.NS 1.991663 VOL_RAIN.NS 1.894089 VOL_BBTC.NS 1.829212 VOL_MOIL.NS 1.827504 VOL_FCONSUMER.NS 1.822743 VOL_DBL.NS 1.742365 VOL_ITI.NS 1.710671
 
 ## Two Portfolios with Max Sharpe Ratio and Min Volatility
+
+<img src="./static/Screenshot 2022-09-12 at 18.16.32.png"/>
 
 ### Portfolio # 1
 
