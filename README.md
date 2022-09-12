@@ -68,6 +68,13 @@ The Fama and French Three Factor Model is an asset pricing model that expands on
 ### BREAKING DOWN Fama And French Three Factor Model
 Eugene Fama and Kenneth French, both professors at the University of Chicago Booth School of Business, attempted to better measure market returns and, through research, found that value stocks outperform growth stocks. Similarly, small-cap stocks tend to outperform large-cap stocks. As an evaluation tool, the performance of portfolios with a large number of small-cap or value stocks would be lower than the CAPM result, as the Three Factor Model adjusts downward for small-cap and value outperformance.
 
+## Security Market Line
+The security market line (SML) is a line drawn on a chart that serves as a graphical representation of the capital asset pricing model (CAPM)—which shows different levels of systematic, or market risk, of various marketable securities, plotted against the expected return of the entire market at any given time.
+
+The security market line is an investment evaluation tool derived from the CAPM—a model that describes risk-return relationship for securities—and is based on the assumption that investors need to be compensated for both the time value of money (TVM) and the corresponding level of risk associated with any investment, referred to as the risk premium.
+
+The formula for plotting the SML is required return = risk-free rate of return + beta (market return - risk-free rate of return).
+
 ## Capital Asset Pricing Model - CAPM
 The capital asset pricing model (CAPM) is a model that describes the relationship between systematic risk and expected return for assets, particularly stocks. CAPM is widely used throughout finance for the pricing of risky securities, generating expected returns for assets given the risk of those assets and calculating costs of capital.
 
