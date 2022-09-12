@@ -30,7 +30,8 @@ A security's beta should only be used when a security has a high R-squared value
 ### Interpreting Beta
 A beta of 1 indicates that the security's price moves with the market. A beta of less than 1 means that the security is theoretically less volatile than the market. A beta of greater than 1 indicates that the security's price is theoretically more volatile than the market. For example, if a stock's beta is 1.2, it's theoretically 20% more volatile than the market.
 
-Here are a beta graphs of a few stocks:
+Here are a beta graphs of a few stocks: 
+<img src="./static/Screenshot 2022-09-12 at 18.15.33.png"/>
 
 
 ## What is Standard Deviation?
