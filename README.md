@@ -67,6 +67,7 @@ Eugene Fama and Kenneth French, both professors at the University of Chicago Boo
 
 ## Capital Asset Pricing Model - CAPM
 The capital asset pricing model (CAPM) is a model that describes the relationship between systematic risk and expected return for assets, particularly stocks. CAPM is widely used throughout finance for the pricing of risky securities, generating expected returns for assets given the risk of those assets and calculating costs of capital.
+
 <img src="./static/Screenshot 2022-09-12 at 18.18.03.png"/>
 
 ## Capital Asset Pricing
@@ -96,11 +97,12 @@ VOL_UNIONBANK.NS 2.170028 VOL_BANKINDIA.NS 2.113974 VOL_RCOM.NS 1.990837 VOL_CAN
 
 <img src="./static/Screenshot 2022-09-12 at 18.16.32.png"/>
 
-### Portfolio # 1
+
+### Portfolio # 1 (Blue star)
 
 Returns 0.250297 Volatility 0.155174 Sharpe Ratio 1.613012 AXISBANK.NS 0.030742 BANKBARODA.NS 0.029452 BHEL.NS 0.003374 HEROMOTOCO.NS 0.003664 CIPLA.NS 0.078108 DRREDDY.NS 0.054943 SBIN.NS 0.025007 HCLTECH.NS 0.070226 RELIANCE.NS 0.106834 HINDUNILVR.NS 0.101651 UNIONBANK.NS 0.101836 BANKINDIA.NS 0.032457 RCOM.NS 0.011342 GMRINFRA.NS 0.014042 JINDALSTEL.NS 0.062114 PCJEWELLER.NS 0.035489 L&TFH.NS 0.068476 JPASSOCIAT.NS 0.023635 GNFC.NS 0.056779 PNCINFRA.NS 0.070353 STRTECH.NS 0.015912 INOXWIND.NS 0.003564
 
-### Portfolio # 2
+### Portfolio # 2 (Red star)
 
 Returns 0.398010 Volatility 0.197242 Sharpe Ratio 2.017875 AXISBANK.NS 0.087238 BANKBARODA.NS 0.003753 BHEL.NS 0.055004 HEROMOTOCO.NS 0.016172 CIPLA.NS 0.014446 DRREDDY.NS 0.012755 SBIN.NS 0.075367 HCLTECH.NS 0.070347 RELIANCE.NS 0.002490 HINDUNILVR.NS 0.009251 UNIONBANK.NS 0.097322 BANKINDIA.NS 0.010150 RCOM.NS 0.000398 GMRINFRA.NS 0.029947 JINDALSTEL.NS 0.069755 PCJEWELLER.NS 0.080285 L&TFH.NS 0.088866 JPASSOCIAT.NS 0.005632 GNFC.NS 0.093626 PNCINFRA.NS 0.070391 STRTECH.NS 0.105415 INOXWIND.NS 0.001390
 
